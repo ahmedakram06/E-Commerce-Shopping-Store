@@ -5,17 +5,20 @@ This is a comprehensive shopping website built using the MERN stack (MongoDB, Ex
 ## Features
 
 ### Admin Panel
+
 - **Add Products**: Easily add new products to the inventory.
 - **Delete Products**: Remove products from the inventory as needed.
 - **View Payments**: Monitor and review payment transactions.
 
 ### User Functionalities
+
 - **Login/Signup**: Secure user authentication for accessing personalized features.
 - **Cart Management**: Users can add, remove, and manage items in their shopping cart.
 - **Payment Integration**: Secure payment processing using the Stripe gateway.
 - **Google Maps Integration**: Provides location-based services and store locator features.
 
 ## Tech Stack
+
 - **Frontend**: React
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
